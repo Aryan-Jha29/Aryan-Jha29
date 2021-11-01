@@ -70,3 +70,8 @@ Please feel free to reach out me for collabs!
 ---
 ## **Github Statistics**
 [![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aryan-Jha29&theme=react-dark)](https://github.com/Aryan-Jha29/github-readme-activity-graph)
+<p align="center">Show ❤️ by starring and forking repositories you find helpful! </p>
+<p align="center"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" alt="Thanks!" data-canonical-src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" style="max-width:100%;"> </p>
+
+⭐️ From [Aryan-Jha29](https://github.com/devangi2000) and suggestions always welcomed!
+<br/>
