@@ -1,5 +1,4 @@
 ### Hi Everyone, I'm Aryan <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Aryan-Jha29.visitor-badge)
 
 Hello folks, I'm Aryan Jha, an aspiring Software Developer Engineer 🚀.
 I'm proficient in C, C++, Data Structures and Algorithms, Problem-Solving and have familiar knowledge of SQL, HTML, CSS, Javascript. 
