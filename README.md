@@ -62,8 +62,8 @@ Please feel free to reach out me for collabs!
 <a href="https://github.com/Aryan-Jha29/DisjointSetUnion_cpp_Header">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Jha29&theme=tokyonight&repo=DSU_Cpp17_HeaderFile"/>
 </a>
-<a href="https://github.com/Aryan-Jha29/Data_Structures_And_Algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Jha29&theme=tokyonight&repo=Data_Structures_And_Algorithms"/>
+<a href="https://github.com/Aryan-Jha29/Invoice-Management-System">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Jha29&theme=tokyonight&repo=Invoice-Management-System"/>
 </a>
 
 ---
