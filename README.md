@@ -7,7 +7,7 @@ I look forward to absorbing knowledge🧠, gaining experience 🏭, collaboratin
 Please feel free to reach out me for collabs!
 
 ## **More about me:** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 💻 I’m a pre-final year Computer Science Student, with tremendous passion for Data Structures & Algorithms along with Competitive Programming.
+- 💻 I’m a final year Computer Science Student, with tremendous passion for Data Structures & Algorithms along with Competitive Programming.
 - 💪 Ask me about Competitive Programming,Data Structures and Basics of Frontend Development.
 - 💬 Currently Working as Coding Club Member at KINDLE KIIT.
 - 📚 I love to take part in coding competitions across various sites and even in global coding competitions.
